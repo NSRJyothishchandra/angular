@@ -1,7 +1,7 @@
 <h1 align="center">Angular - The modern web developer's platform.</h1>
 
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://r.search.yahoo.com/_ylt=AwrtFpolkRpiONcAtyC9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzZkNWNjMDU4Y2NlM2NkOTU5NDljYTUwNzdjMTQzYjNkBGdwb3MDMgRpdANiaW5n/RV=2/RE=1645937061/RO=11/RU=https%3a%2f%2fcoryrylan.com%2fblog%2fangular-debugging-tips-and-tricks/RK=2/RS=wz99fGI.9SEqwxHBPTCooi8pg4M-" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using Typescript/JavaScript and other languages.</i>
